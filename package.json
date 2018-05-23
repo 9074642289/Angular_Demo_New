@@ -12,6 +12,7 @@
     "Rob Wormald <robwormald@gmail.com>",
     "PatrickJS <github@gdi2290.com>"
   ],
+
   "license": "MIT",
   "dependencies": {
     "@angular/common": "~4.0.1",
@@ -32,6 +33,7 @@
     "rxjs": "5.0.1",
     "zone.js": "^0.8.4"
   },
+
   "devDependencies": {
     "@types/node": "^7.0.12",
     "angular2-router-loader": "^0.3.4",
